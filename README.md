@@ -42,5 +42,3 @@ cargo run
 - `tonic` generates files under `target/.../out`, included via `include_proto!`.
 - The current server is a functional skeleton and can be extended to broadcast to all users.
 
-## License
-Choose a license (e.g., MIT, Apache-2.0) and update this section.
